@@ -37344,8 +37344,8 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! D:\LARAVEL\practica7\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! D:\LARAVEL\practica7\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! D:\LARAVEL\iTeamsNews\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! D:\LARAVEL\iTeamsNews\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
